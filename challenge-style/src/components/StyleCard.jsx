@@ -10,7 +10,13 @@ const StyleCard = () => {
         color: "darkblue",
       }}
     >
-      StyleCard
+      <h1>Style Card</h1>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. In
+        dignissimos, vitae vel voluptates ducimus dicta optio, ullam provident
+        placeat sint quia. Debitis nisi amet consequatur libero rerum, ullam
+        voluptatum labore!
+      </p>
     </div>
   );
 };
